@@ -1,0 +1,10 @@
+Package: tinesath1probe
+Title: Probe sequence data for microarrays of type tinesath1
+Version: 1.0.2
+Created: Mon Aug  7 17:00:54 2006
+Author: The Bioconductor Project www.bioconductor.org 
+Description: This package was automatically created by package matchprobes version 1.4.0. The probe sequence data was obtained from http://www.affymetrix.com. 
+Maintainer: Tine Casneuf <tine@ebi.ac.uk>
+Depends: R (>= 1.6), matchprobes (>= 1.4.0)
+License:  LGPL
+biocViews: AnnotationData, AffymetrixChip, tinesath1, Arabidopsis thaliana
