@@ -7,4 +7,4 @@ Description: This package was automatically created by package matchprobes versi
 Maintainer: Tine Casneuf <tine@ebi.ac.uk>
 Depends: R (>= 1.6), matchprobes (>= 1.4.0)
 License:  LGPL
-biocViews: AnnotationData, AffymetrixChip, tinesath1, Arabidopsis thaliana
+biocViews: AnnotationData, AffymetrixChip, tinesath1, Arabidopsis_thaliana
