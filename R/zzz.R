@@ -1,5 +1,5 @@
 .First.lib <- function(lib, pkgname, where) {
-  require(matchprobes)
+  require(AnnotationDbi)
   
   ## load the data
   thepath = .path.package(pkgname)

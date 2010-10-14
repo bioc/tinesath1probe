@@ -5,6 +5,6 @@ Created: Mon Aug  7 17:00:54 2006
 Author: The Bioconductor Project www.bioconductor.org 
 Description: This package was automatically created by package matchprobes version 1.4.0. The probe sequence data was obtained from http://www.affymetrix.com. 
 Maintainer: Tine Casneuf <tine@ebi.ac.uk>
-Depends: R (>= 1.6), matchprobes (>= 1.4.0)
+Depends: R (>= 1.6), AnnotationDbi (>= 1.11.9)
 License:  LGPL
 biocViews: AnnotationData, AffymetrixChip, tinesath1, Arabidopsis_thaliana
