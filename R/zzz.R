@@ -1,4 +1,4 @@
-.First.lib <- function(lib, pkgname, where) {
+.onLoad <- function(lib, pkgname) {
   require(AnnotationDbi)
   
   ## load the data
