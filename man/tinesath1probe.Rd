@@ -18,6 +18,7 @@
 
 \keyword{datasets}
 \examples{
+  data(tinesath1probe)
   tinesath1probe
   as.data.frame(tinesath1probe[1:3,])
 }
