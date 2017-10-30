@@ -1,6 +1,6 @@
 Package: tinesath1probe
 Title: Probe sequence data for microarrays of type tinesath1
-Version: 1.15.0
+Version: 1.16.0
 Created: Mon Aug  7 17:00:54 2006
 Author: The Bioconductor Project www.bioconductor.org 
 Description: This package was automatically created by package matchprobes version 1.4.0. The probe sequence data was obtained from http://www.affymetrix.com. 
